@@ -63,3 +63,20 @@ html .links #link-content {
     justify-content: center;
     align-items: center
 }
+
+.fas.fa-mercadolibre {
+    background: url(/assets/imgs/icon-ml.png) no-repeat;
+    content: "";
+    background-size: contain;
+    background-position: 100%;
+    width: 35px;
+    height: 26px;
+}
+.fa-rocketfy{
+    background: url(/assets/imgs/rocketfy.svg) no-repeat;
+    content: "";
+    background-size: 65px;
+    background-position: 0px 0px;
+    width: 18px;
+    height: 15px;
+}
